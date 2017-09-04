@@ -20,12 +20,41 @@ li {
     display: flex;
     justify-content: center;
 }
+.image{
+    display: flex;
+    justify-content: center;
+}
+.buttom{
+    display: flex;
+    justify-content: center;
+}
+.buttom-left li{
+    margin: 25px 0 25px 0;
+
+}
+.buttom-list1{
+    display: flex;
+    justify-content: center;
+}
+.buttom-list1 p{
+    text-align: center;
+}
+.buttom-list2{
+    display: flex;
+    justify-content: center;
+}
+.buttom-list2 p{
+    text-align: center;
+}
 
 .header-link li {
     margin: 0 25px 0 25px;
 }
 .middle-link li{
     margin: 0 10px 0 10px;
+}
+.image li{
+    margin: 10px 0 15px 0;
 }
 
 .discover-sjsu-dropdown {
@@ -192,4 +221,42 @@ transition: all 0.6s;
 }
 #Parking{
 transition: all 0.6s;
+}
+.middle-link li{
+    color: rgb(51, 102, 204);
+}
+.image a{
+    color: rgb(77, 121, 255);
+    color: hsl(225, 100%, 65%);
+
+}
+.image a:hover{
+    cursor: pointer;
+    color: rgb(0, 19, 77);
+    transition: all 0.5s;
+}
+.image a{
+    transition:  all 0.7s;
+}
+#news{
+    color: rgba(0, 0, 0, 0.5);
+}
+#spartans{
+    color: rgba(0, 0, 0, 0.5);
+}#bright-idea{
+    color: rgba(0, 0, 0, 0.5);
+}#power{
+    color: rgba(0, 0, 0, 0.5);
+}
+#tour{
+    color: rgba(0, 0, 0, 0.5);
+}
+#event{
+    color: rgba(0, 0, 0, 0.5);
+}
+.buttom-left a{
+    color: rgb(0, 77, 153);
+}
+.buttom-right a{
+    color: rgb(0, 77, 153);
 }
