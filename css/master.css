@@ -1,0 +1,195 @@
+body {}
+
+p {
+    /*color: brown;*/
+}
+
+li {
+    list-style: none;
+}
+
+.page-header {
+    /*text-align: center;*/
+}
+
+.header-link {
+    display: flex;
+    justify-content: center;
+}
+.middle-link{
+    display: flex;
+    justify-content: center;
+}
+
+.header-link li {
+    margin: 0 25px 0 25px;
+}
+.middle-link li{
+    margin: 0 10px 0 10px;
+}
+
+.discover-sjsu-dropdown {
+    background-color: #ddd;
+    display: none;
+    transition: all 0.6s;
+}
+
+.discover-sjsu-dropdown ul {
+    padding: 0;
+    transition: all 0.6s;
+}
+
+#discover-sjsu:hover {
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.6s;
+}
+#discover-sjsu{
+    transition: 0.8s;
+}
+
+#alumni-and-community:hover {
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.6s;
+}
+
+#alumni-and-community {
+    transition: all 0.8s;
+}
+
+.future-students-dropdown {
+    background-color: #ddd;
+    display: none;
+}
+
+.future-students-dropdown ul {
+    padding: 0;
+}
+
+#future-students:hover {
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.6s;
+}
+
+#future-students {
+    transition: all 0.8s;
+}
+.curent-students-dropdown{
+    background-color: #ddd;
+    display: none;
+}
+.curent-students-dropdown ul{
+    padding: 0;
+}
+#curent-students:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.6s;
+}
+#curent-students{
+    transition: all 0.8s;
+}
+.faculty-and-staff-dropdown{
+    background-color: #ddd;
+    display: none;
+}
+.faculty-and-staff-dropdown ul{
+    padding: 0;
+}
+#faculty-and-staff:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.6s;
+}
+#faculty-and-staff{
+    transition: 0.8s;
+}
+#alumni-and-community:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.6s;
+}
+#alumni-and-community {
+    transition: all 0.8s;
+}
+.alumni-and-community-dropdown{
+    background-color: #ddd;
+    display: none;
+}
+.alumni-and-community-dropdown ul{
+    padding: 0;
+}
+/*.middle-link:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.5s;
+}
+.middle-link{
+    transition: all 0.6s;
+}*/
+#A-Z-Index:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s;
+}
+#A-Z-Index{
+transition: all 0.6s;
+}
+#Academics:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s;
+}
+#Academics{
+transition: all 0.6s;
+}
+#Bookstores:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s;
+}
+#Bookstores{
+transition: all 0.6s;
+}
+#Calendars:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s;
+}
+#Calendars{
+transition: all 0.6s;
+}
+#Careers:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s;
+}
+#Careers{
+transition: all 0.6s;
+}
+#Directory:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s;
+}
+#Directory{
+transition: all 0.6s;
+}
+#King-Library:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s;
+}
+#King-Library{
+transition: all 0.6s;
+}
+#Parking:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s;
+}
+#Parking{
+transition: all 0.6s;
+}
